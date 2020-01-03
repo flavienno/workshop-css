@@ -1,0 +1,27 @@
+body{
+    background-color: #000099;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    word-spacing: 10px;
+}
+
+li{
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1{
+    color: white;
+}
+
+.item{
+    border-radius: 5px;
+}
+
+#saisie{
+    border-radius: 3px;
+}
+
+#ajouter{
+    border-radius: 8px;
+}
